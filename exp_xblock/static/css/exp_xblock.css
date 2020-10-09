@@ -1,0 +1,9 @@
+/* CSS for ExpXBlock */
+
+.exp_xblock_block .count {
+    font-weight: bold;
+}
+
+.exp_xblock_block p {
+    cursor: pointer;
+}
